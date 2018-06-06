@@ -1,5 +1,3 @@
-import {ListDetails} from '../list/list'
-
 export class Challenge {
     constructor(
         public id: number,
